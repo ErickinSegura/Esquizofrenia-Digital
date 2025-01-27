@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1691128296967",
+      "name": "Justify",
+      "startTag": "<p align=\"justify\">",
+      "endTag": "</p>"
+    },
+    {
+      "id": "underline",
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    }
+  ]
+}

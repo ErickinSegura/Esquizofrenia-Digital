@@ -1,0 +1,5 @@
+{
+  "format": "DD-MMMM-YYYY dddd  hh ss a",
+  "folder": "Diario",
+  "autorun": false
+}

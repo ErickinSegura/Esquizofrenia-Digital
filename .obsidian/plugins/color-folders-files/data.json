@@ -1,0 +1,28 @@
+{
+  "styles": {
+    "Visitantes": {
+      "backgroundColor": "#5c2b5f",
+      "isBold": false,
+      "applyToSubfolders": false,
+      "textColor": "#ffffff"
+    },
+    "Templates": {
+      "textColor": "#ffffff",
+      "backgroundColor": "#077d35"
+    },
+    "Tec": {
+      "backgroundColor": "#1932ae",
+      "textColor": "#ffffff"
+    },
+    "Recursos": {
+      "backgroundColor": "#c20000",
+      "textColor": "#ffffff"
+    },
+    "Excalidraw": {
+      "backgroundColor": "#c25e00",
+      "textColor": "#ffffff"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

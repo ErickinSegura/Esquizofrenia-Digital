@@ -1,0 +1,10 @@
+{
+  "accentColor": "#ededed",
+  "cssTheme": "AMOLED Serenity",
+  "textFontFamily": "JetBrainsMono Nerd Font,Source Code Pro",
+  "interfaceFontFamily": "Microsoft Himalaya,Consolas,Arial",
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": true,
+  "baseFontSize": 20,
+  "nativeMenus": false
+}
