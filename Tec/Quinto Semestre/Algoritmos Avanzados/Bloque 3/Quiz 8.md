@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 1. Dados p0 = (−30, 10), p1 = (29, −15), p2 = (15, 28), determinar si el segmento dirigido→p0p1 está en sentido de las manecillas del reloj o no a partir de →p0p2.
 
 $$

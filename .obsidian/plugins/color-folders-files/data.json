@@ -1,14 +1,14 @@
 {
   "styles": {
     "Visitantes": {
-      "backgroundColor": "#5c2b5f",
+      "backgroundColor": "#2c950f",
       "isBold": false,
       "applyToSubfolders": false,
       "textColor": "#ffffff"
     },
     "Templates": {
       "textColor": "#ffffff",
-      "backgroundColor": "#077d35"
+      "backgroundColor": "#6a077d"
     },
     "Tec": {
       "backgroundColor": "#1932ae",
@@ -20,6 +20,23 @@
     },
     "Excalidraw": {
       "backgroundColor": "#c25e00",
+      "textColor": "#ffffff"
+    },
+    "Tec/Sexto Semestre": {
+      "backgroundColor": "#e0e0e0",
+      "textColor": "#1a1a1a",
+      "opacity": 1
+    },
+    "Tec/3. Tercer Semestre": {
+      "backgroundColor": "#3b3b3b",
+      "textColor": "#ffffff"
+    },
+    "Tec/3.5 Invierno 24": {
+      "backgroundColor": "#3b3b3b",
+      "textColor": "#ffffff"
+    },
+    "Tec/5. Quinto Semestre": {
+      "backgroundColor": "#3b3b3b",
       "textColor": "#ffffff"
     }
   },

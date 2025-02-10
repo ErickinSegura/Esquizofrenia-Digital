@@ -5,8 +5,6 @@ banner_y: 0.464
 # Tec
 
 índice de mis apuntes del Tec de Monterrey. Ordenados por semestre y materia.
-A partir de tercer semestre por que no conocía esta herramienta.
-
 ## [[Tercer Semestre]]
  - [[Matemáticas y Ciencia de Datos para la Toma de Decisiones]]
  - [[Análisis de Ecuaciones Diferenciales]]

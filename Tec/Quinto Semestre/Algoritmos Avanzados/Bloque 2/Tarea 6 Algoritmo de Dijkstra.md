@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 # Casos de Prueba
 ## Caso 1
 

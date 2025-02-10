@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookText",
+      "LiBookOpenText",
       "LiChartNoAxesColumnIncreasing",
       "LiBook",
-      "LiBookTemplate",
-      "LiMailbox",
-      "LiPencil"
+      "LiBookTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,9 @@
   "Templates": "LiBookTemplate",
   "Tec": "LiBook",
   "Recursos": "LiChartNoAxesColumnIncreasing",
-  "Excalidraw": "LiPencil"
+  "Excalidraw": "LiPencil",
+  "Tec/Sexto Semestre": "LiBookOpenText",
+  "Tec/Quinto Semestre": "LiBookText",
+  "Tec/Invierno 24": "LiBookText",
+  "Tec/Tercer Semestre": "LiBookText"
 }

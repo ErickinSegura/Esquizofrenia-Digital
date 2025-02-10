@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Tec/Tercer Semestre\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65378
+      }
+    },
+    {
+      "query": "path:\"Tec/Sexto Semestre\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16724828
+      }
+    },
+    {
+      "query": "path:\"Tec/Quinto Semestre\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "path:\"Tec/Invierno 24\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

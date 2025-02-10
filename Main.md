@@ -8,9 +8,13 @@ banner_y: 0.68
 Bienvenid@. 
 Si no eres yo, por favor, da click a `button-VisitaID` y crea una nota de visitante.
 
-Aquí tengo muchos de mis apuntes hechos a partir de 3er semestre de carrera, eres libre de tomar lo que necesites.
-
-
+## Notas Recientes
+```dataview
+TABLE file.mtime as "Última Modificación"
+FROM "Tec"
+SORT file.mtime DESC
+LIMIT 5
+```
 
 
 links: [[Tec]] [[Templates]] [[Recursos]] [[Excalidraw]]

@@ -1,3 +1,5 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
 
 Dados los puntos p0 = (0, 3), p1 = (1, 1), p2 = (3, 7), p3 = (1, 8), p4 = (6, 7), p5 = (10, 4), p6 = (10, 8), p7 = (5, 8), p8 = (6, 1), p9 = (8, 0), y p10 = (10, 9), construya el cierre convexo mediante el algoritmo Graham Scan. Apoye su respuesta mediante la graficación de los puntos y los segmentos de recta que constituyen el cierre convexo. Calcule manualmente todos los elementos que solicita el algoritmo, i.e., ángulos, pila,  ordenamiento.
 

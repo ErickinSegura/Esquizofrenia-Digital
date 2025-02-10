@@ -1,3 +1,5 @@
+Links: [[Argumentation and Debate]]
+
 Cuando digo "Grandes Inventos del Siglo XX," ¿en qué piensan? Algunos podrían mencionar el internet, otros las computadoras, los viajes espaciales, y con razón: son grandes avances que cambiaron la vida como la conocemos. Pero, hoy quiero hablarles de un invento que muchos pasan por alto, algo tan pequeño y común que tal vez no le damos la importancia que merece. De hecho, tengo un ejemplar aquí conmigo.
 
 Sí, así es. Una pluma Bic Cristal. ¿Sorprendidos? Seguramente algunos se preguntarán: "¿Qué tiene de especial una simple pluma?". Pues bien, eso es lo que quiero compartirles hoy. Porque detrás de esta pequeña herramienta se esconde una historia fascinante, una contribución fundamental a la educación y un diseño tan preciso y funcional que apenas ha cambiado en más de setenta años. Así que, antes de contarles por qué esta pluma ha tenido un impacto tan profundo, empecemos con un poco de historia.

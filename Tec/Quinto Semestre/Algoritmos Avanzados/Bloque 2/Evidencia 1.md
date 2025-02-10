@@ -1,3 +1,5 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
 # E1. Actividad integradora 1
 
 `TC2038.606`

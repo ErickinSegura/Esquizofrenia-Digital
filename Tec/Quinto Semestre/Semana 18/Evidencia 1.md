@@ -1,3 +1,4 @@
+Links: [[Semana 18 - 5]]
 # Mi historia
 
 Inicié el semestre emocionado, principalmente por el bloque de desarrollo móvil. Esperaba mucho de esta materia y de la gran variedad de contenido que traía consigo. Además, veía esta como una nueva oportunidad para conocer a más compañeros de la carrera y formar alianzas estratégicas para futuros proyectos.

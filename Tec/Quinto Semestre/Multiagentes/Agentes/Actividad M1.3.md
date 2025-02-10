@@ -1,3 +1,5 @@
+Links: [[Multiagentes]]
+
 ##### 1. Elige y describe un fenómeno o problema de tu preferencia en el que participen dos o más agentes del mismo tipo.
 
 El sistema consiste en una red de repartidores que reciben y entregan pedidos de comida de diferentes restaurantes a los clientes. Los repartidores deben coordinar la recogida de pedidos, optimizar rutas y garantizar entregas rápidas, mientras el sistema debe asignar pedidos de manera eficiente considerando ubicación, tiempo y carga de trabajo.

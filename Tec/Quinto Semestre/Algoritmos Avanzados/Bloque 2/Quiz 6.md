@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 Dado el grafo de la figura, ejecute el algoritmo de Dijkstra de forma manual considerando al nodo A como la fuente. Asegúrese de mostrar cómo cambia v.π y v.d ∀v ∈ V.
 
 ![[Pasted image 20241004183427.png]]

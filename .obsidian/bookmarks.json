@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1738018586612,
+      "path": "Tec/Sexto Semestre"
+    },
+    {
+      "type": "group",
+      "ctime": 1738018763679,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1738018763679,
+          "items": [],
+          "title": "Tec"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

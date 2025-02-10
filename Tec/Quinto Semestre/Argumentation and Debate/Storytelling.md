@@ -1,3 +1,5 @@
+Links: [[Argumentation and Debate]]
+
 I like to call this little story "Desvelados" maybe for a silly reason, but I think it sums up well what happened. It was the February-June 2023 semester at Tec de Monterrey, San Luis Potosí campus. We were in the last period of classes, and it was Friday of the penultimate week. Naturally, several people were still at the campus late into the evening, among them the protagonists of this story—two of my closest friends, "Andres and Pez," and, of course, me.
 
 The three of us lived relatively far from campus. Pez and I usually spent over an hour commuting to our foreign houses, but in this case, Andres was always our savior since, being a local, he had a car and could drop us off as close to our homes as possible.

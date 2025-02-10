@@ -1,3 +1,5 @@
+Links: [[Moviles]]
+
 Las pruebas son una parte fundamental en el ciclo de vida del desarrollo de aplicaciones Android, ya que permiten garantizar la calidad y el correcto funcionamiento de la aplicación. Las herramientas y frameworks disponibles en el ecosistema Android permiten realizar pruebas automáticas y eficaces. Este resumen se centra en los aspectos más importantes de las pruebas en Android, abarcando desde los fundamentos hasta las herramientas avanzadas.
 
 ### Fundamentos de las pruebas en Android

@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 ## 1. Algoritmo de Kruskal
 
 ### Funcionamiento

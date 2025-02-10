@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 Uso del algoritmo: `./GrahamScan <archivo_puntos>`
 
 ## Caso de prueba 1

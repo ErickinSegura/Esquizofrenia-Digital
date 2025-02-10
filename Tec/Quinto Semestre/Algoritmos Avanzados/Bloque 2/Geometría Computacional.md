@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 Entrada general: Descripción de los objetos geométicos.
 Salida general: Respuesta a una pregunta acerca de los objetos.
 

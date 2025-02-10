@@ -2,7 +2,7 @@ Erick Segura Sánchez A01613821
 Links:[[Algoritmos Avanzados]]
 ## Pseudocódigo
 
-```
+``` python
 isValid(row, col, num):
     for x from 0 to 8:
         if board[row][x] == num or board[x][col] == num:
@@ -42,7 +42,7 @@ Ejemplo de solo un 3x3
 
 ## Análisis de complejidad
 
-```
+``` python
 bool solve() {
 	for (int row = 0; row < N; row++) {
 		for (int col = 0; col < N; col++) {

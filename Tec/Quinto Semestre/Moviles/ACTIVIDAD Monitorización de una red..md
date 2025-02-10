@@ -1,3 +1,4 @@
+Links: [[Moviles]]
 ### **Part 1: Survey Your Understanding of Network Monitoring
 
 **Descripción de la monitorización de redes:** La monitorización de redes consiste en supervisar el tráfico y los dispositivos conectados a una red para asegurarse de que funcionen de manera eficiente y segura. Herramientas de monitorización pueden detectar caídas de servidores, interrupciones en el servicio, o anomalías en el rendimiento, permitiendo al administrador de red tomar acciones preventivas o correctivas.

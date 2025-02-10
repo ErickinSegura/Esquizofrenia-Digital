@@ -1,3 +1,4 @@
+Links: [[Multiagentes]]
 Nuestro equipo diseño lo siguiente: 
 - 2 robots
  ![[Pasted image 20241115215130.png]]

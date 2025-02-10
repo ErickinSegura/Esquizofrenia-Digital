@@ -16,5 +16,10 @@
   "obsidian-banners",
   "obsidian-excalidraw-plugin",
   "color-folders-files",
-  "github-sync"
+  "github-sync",
+  "colored-tags",
+  "highlightr-plugin",
+  "obsidian-latex-suite",
+  "code-styler",
+  "custom-sort"
 ]

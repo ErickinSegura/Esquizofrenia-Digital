@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 $$T_1, T_2 \epsilon \Sigma^* $$
 
 Problema. Encontrar coincidencias entre T1 y T2

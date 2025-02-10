@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 Entrada: Un grafo no dirigido G = (V,E)
 Problema: Colorear los vértices de V usando el mínimo de números de colores tal que i, j E V tengan diferente color para todo (i,j) E E.
 El mínimo número de colores T* se le llama NÚMERO CROMÁTICO DE G

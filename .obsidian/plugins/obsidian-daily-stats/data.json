@@ -26,20 +26,13 @@
     "2024/0/24": 3,
     "2024/0/26": 0,
     "2024/1/15": 1,
-    "2025/0/27": 1
+    "2025/0/27": 117,
+    "2025/1/3": 0
   },
   "todaysWordCount": {
     "Main.md": {
-      "initial": 61,
-      "current": 57
-    },
-    "Tec/Untitled.md": {
-      "initial": 16,
-      "current": 16
-    },
-    "Tec/Invierno 24/Inglés VI/Eleventh Class.md": {
-      "initial": 22,
-      "current": 23
+      "initial": 327,
+      "current": 53
     }
   }
 }

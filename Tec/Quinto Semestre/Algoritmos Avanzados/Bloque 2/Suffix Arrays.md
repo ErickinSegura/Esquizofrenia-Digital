@@ -1,3 +1,6 @@
+Erick Segura Sánchez A01613821
+Links:[[Algoritmos Avanzados]]
+
 Dado un string S, de longitud n, su arreglo de sufijos es un arreglo de enteros que contiene las posociones que tienen los n +1 sufijos en el string T = S#, ordenados lexicográficamente, considerando a # como el primer caracter del alfabeto.
 
 ```
