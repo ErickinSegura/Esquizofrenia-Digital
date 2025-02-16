@@ -27,12 +27,18 @@
     "2024/0/26": 0,
     "2024/1/15": 1,
     "2025/0/27": 117,
-    "2025/1/3": 0
+    "2025/1/3": 0,
+    "2025/1/10": 0,
+    "2025/1/12": 304
   },
   "todaysWordCount": {
-    "Main.md": {
-      "initial": 327,
-      "current": 53
+    "Tec/Sexto Semestre/Planeación de Sistemas de Software/Introducción a Docker.md": {
+      "initial": 16,
+      "current": 318
+    },
+    "Tec/Sexto Semestre/Planeación de Sistemas de Software/Planeación de Sistemas de Software.md": {
+      "initial": 1,
+      "current": 3
     }
   }
 }

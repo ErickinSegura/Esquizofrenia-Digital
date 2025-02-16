@@ -1,7 +1,7 @@
 ---
 banner: "![[isolineas.jpg]]"
-banner_y: 0.68
 ---
+
 # Main
 ~ Cuaderno de Notas de Erick Segura ~
 

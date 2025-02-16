@@ -21,5 +21,7 @@
   "highlightr-plugin",
   "obsidian-latex-suite",
   "code-styler",
-  "custom-sort"
+  "custom-sort",
+  "better-export-pdf",
+  "break-page"
 ]

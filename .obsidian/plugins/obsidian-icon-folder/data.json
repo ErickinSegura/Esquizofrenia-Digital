@@ -39,8 +39,8 @@
   "Tec": "LiBook",
   "Recursos": "LiChartNoAxesColumnIncreasing",
   "Excalidraw": "LiPencil",
-  "Tec/Sexto Semestre": "LiBookOpenText",
   "Tec/Quinto Semestre": "LiBookText",
   "Tec/Invierno 24": "LiBookText",
-  "Tec/Tercer Semestre": "LiBookText"
+  "Tec/Tercer Semestre": "LiBookText",
+  "Tec/Sexto Semestre": "LiBookOpenText"
 }

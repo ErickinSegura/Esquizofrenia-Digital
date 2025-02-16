@@ -1,7 +1,7 @@
 ---
 banner: "https://st.depositphotos.com/3930503/59792/i/450/depositphotos_597928206-stock-photo-light-blue-gradient-background-blue.jpg"
-banner_y: 0.464
 ---
+
 # Tec
 
 índice de mis apuntes del Tec de Monterrey. Ordenados por semestre y materia.
